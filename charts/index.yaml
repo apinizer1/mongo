@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mongo:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-10-30T12:51:55.816569811Z"
+    description: A Helm chart for Kubernetes
+    digest: 3c5903c5cb3161d732b691c066431c9f986656f9642e5d995e3c7c69e10cbe60
+    name: mongo
+    type: application
+    urls:
+    - mongo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-30T12:51:55.814851946Z"
